@@ -1,0 +1,1 @@
+A portfolio can be defined as a collection of assets owned by one person
