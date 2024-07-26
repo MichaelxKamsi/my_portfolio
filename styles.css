@@ -1,0 +1,207 @@
+#blog {
+}
+
+a:link {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+li {
+    margin: 20px;
+}
+
+.logo {
+    display: flex;
+    list-style: none;
+    justify-content: left;
+    margin: 20px;
+    width: 50px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+#second-div {
+    padding: 25px;
+    border-radius: 16px;
+    margin-right: 20px;
+    background-color: grey;
+}
+
+#third_div {
+    padding: 25px;
+    border-radius: 16px;
+    margin-right: 20px;
+    background-color: grey;
+}
+
+#herocontainer {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-around;
+    margin-bottom: 71px;
+}
+
+#profile {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}
+
+#description {
+    width: 497px;
+}
+
+#first-div {
+    display: flex;
+    background-color: skyblue;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    height: 350px;
+}
+
+#post_heading {
+    display: flex;
+    justify-content: space-between;
+    width: 1060px;
+    align-items: center;
+}
+
+#heading_parent {
+    justify-content: space-evenly;
+}
+
+
+a:link{
+    margin: 20px;
+}
+
+header {
+    padding: 146px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+#p1 {
+    margin-bottom: 40px;
+}
+
+#div1 {
+    display: flex;
+    margin: 30px;
+}
+
+#div2 {
+    display: flex;
+    margin: 30px;
+}
+
+#div3 {
+    display: flex;
+    margin: 30px;
+}
+
+#Dashboard {
+    width: 246px;
+    height: 180px;
+    margin-right: 18px;
+}
+
+#Illustration {
+    width: 246px;
+    height: 180px;
+    margin-right: 18px;
+}
+
+#Typography {
+    width: 246px;
+    height: 180px;
+    margin-right: 18px;
+}
+
+#ton {
+    background-color: blueviolet;
+    border-radius: 16px;
+    margin-right: 18px;
+}
+
+#tto {
+    background-color: blueviolet;
+    border-radius: 16px;
+    margin-right: 18px;
+}
+
+#bland {
+    background-color: blueviolet;
+    border-radius: 16px;
+    margin-right: 18px;
+}
+
+#Ab {
+    display: flex;
+}
+
+#Cd {
+    display: flex;
+}
+
+#Ef {
+    display: flex;
+}
+
+#major-div {
+    justify-content: space-between;
+}
+
+#line {
+    border-bottom: 1px solid gray;
+    margin: 15px 0 31px 0;
+}
+
+#OP_Heading {
+    margin: 30px;
+}
+
+#facebook {
+    width: 50px;
+    height: 50px;
+}
+
+#instagram {
+    width: 50px;
+    height: 50px;
+}
+
+#Twitter {
+    width: 50px;
+    height: 50px;
+}
+
+#linkedin {
+    width: 50px;
+    height: 50px;
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+}
+
+#cop{
+    text-align: center;
+}
